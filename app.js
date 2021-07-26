@@ -72,11 +72,6 @@ btnCheck.addEventListener('click' , function(){
         
     }else{
         alert("Please Enter Valid Scenario ")
-    }
-    
-    
-
-
-        
+    }        
 })
 
